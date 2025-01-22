@@ -9,7 +9,7 @@ This is a basic Discord bot designed for server verification. Originally made fo
 - Sends a verification message with a button.
 - Creates private verification channels for users.
 - Allows server staff to verify users manually.
-- Automatically assigns the "Verified" role upon successful verification.
+- Automatically assigns the "Verified" role upon successful verification.  (you can change this but it's kinda hidden)
 - Configurable settings for staff role, allowed users, and verification channels.
 
 ---
