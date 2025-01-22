@@ -46,7 +46,7 @@ This is a basic Discord bot designed for server verification. Originally made fo
 
 3. Run the bot:
    ```bash
-   python bot.py
+   python main.py
    ```
 
 ---
