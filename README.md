@@ -100,4 +100,4 @@ Enjoy using this bot! If you run into any issues, feel free to open an issue or 
 
 ### Repository Stars
 
-[![Stars](https://img.shields.io/github/stars/7wlr/verification-bot?style=social)](https://github.com/7wlr/verification-bot/stargazers)
+[![Stars](https://img.shields.io/github/stars/7wlr/verification-bot?style=social)](https://github.com/7wlr/discord-verification-bot/stargazers)
