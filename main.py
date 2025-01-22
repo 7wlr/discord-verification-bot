@@ -6,7 +6,7 @@ import asyncio
 import json
 import os
 
-BOT_TOKEN = ""  # replace with your own bot token aswell put every intent ;)
+BOT_TOKEN = "put your bot token here lol"  # replace with your own bot token aswell put every intent ;)
 STAFF_ROLE_ID = 1234567890  # replace with your server's staff id 
 ALLOWED_USER_ID = 1234567890  # replace with your own user id
 DATA_FILE = "bot_data.json"
